@@ -1,6 +1,7 @@
 {
 	"name": "jsonds",
 	"version": "0.1.0",
+	"description": "The most agile, unscalable data store possible - a JSON blob periodically flushed to disk.",
 	"main": "jsonds",
 	"author": "Liam Doherty",
 	"dependencies" : { 
