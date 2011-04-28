@@ -1,9 +1,13 @@
 {
-	name: "jsonds",
-	version: "0.0.1",
-	main: "jsonds",
+	"name": "jsonds",
+	"author": "Liam Doherty",
+	"version": "0.1",
+	"main": "jsonds",
 	"dependencies" : { 
-		"underscorem" : "*",
-		"mini-lzo-wrapper": "*"
+		"matterhorn-underscorem" : ">=0.1",
+		"mini-lzo-wrapper": ">=0.1"
+	},
+	"engines": {
+		 "node" : "0.4"
 	}
 }
