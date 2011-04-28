@@ -1,0 +1,8 @@
+Jsonds is a 'data store' which is just a JSON object which is written to disk at a set frequency.  This is a surprisingly
+effective way to rapidly prototype web applications, and for small-scale web applications with small 
+amounts of data, can be a perfectly good solution.
+
+It's not recommended unless you've got a good backup system running as well, at least until I add the ability
+to save periodic snapshots that are never overwritten.
+
+Testing as been pretty minimal, so I wouldn't trust it with anything mission-critical.

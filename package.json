@@ -1,0 +1,9 @@
+{
+	name: "jsonds",
+	version: "0.0.1",
+	main: "jsonds",
+	"dependencies" : { 
+		"underscorem" : "*",
+		"mini-lzo-wrapper": "*"
+	}
+}
