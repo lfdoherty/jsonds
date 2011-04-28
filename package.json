@@ -1,8 +1,8 @@
 {
 	"name": "jsonds",
-	"author": "Liam Doherty",
 	"version": "0.1.0",
 	"main": "jsonds",
+	"author": "Liam Doherty",
 	"dependencies" : { 
 		"matterhorn-underscorem" : ">=0.1",
 		"mini-lzo-wrapper": ">=0.1"
